@@ -190,8 +190,8 @@ footer nav ul {
         font-weight: bold;
     }
 
-    .full,
-    .skills {
+    .full
+     {
         display: none;
     }
 }
